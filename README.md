@@ -1,9 +1,11 @@
-## Bem-vindo(a) ao Leandro-Rezuto 😁
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroRezuto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/leandrorezuto">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorezuto
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorezuto
+&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,11 +16,12 @@
  
  <br>
  
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
-<div> target="_blank"></a>
- target="_blank"></a>
- target="_blank"></a>
-
-  ![Snake animation](https://github.com/Leandro-Rezuto/Leandro-Rezuto/blob/output/github-contribution-grid-snake.svg)
+<div> 
+  <a href="https://instagram.com/leandrosc23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
